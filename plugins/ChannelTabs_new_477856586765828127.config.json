@@ -1,0 +1,46 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "#cloudy-updates",
+                "url": "/channels/897448027445428244/961011833559449640",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/897448027445428244/ffc760417ba4f978497a536a871b280d.webp?",
+                "channelId": "961011833559449640"
+            }
+        ],
+        "favs": [
+            {
+                "name": "Friends",
+                "iconUrl": "https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png",
+                "url": "/channels/@me",
+                "groupId": -1
+            }
+        ],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": true,
+        "alwaysFocusNewTabs": false
+    }
+}

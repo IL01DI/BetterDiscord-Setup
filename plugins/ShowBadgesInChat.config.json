@@ -1,0 +1,106 @@
+{
+	"all": {
+		"badgeCache": {
+			"235148962103951360": {
+				"flags": 65536,
+				"date": 1657716646651
+			},
+			"477856586765828127": {
+				"flags": 128,
+				"date": 1657718063797
+			},
+			"703886990948565003": {
+				"flags": 65536,
+				"date": 1657716645388
+			},
+			"852928898786525204": {
+				"flags": 0,
+				"date": 1657716642912
+			},
+			"996005766907572246": {
+				"flags": 0,
+				"date": 1657716644154
+			}
+		},
+		"badgeConfigs": {
+			"BUG_HUNTER": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "BUG_HUNTER"
+			},
+			"CERTIFIED_MODERATOR": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "CERTIFIED_MODERATOR"
+			},
+			"CURRENT_GUILD_BOOST": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "CURRENT_GUILD_BOOST"
+			},
+			"EARLY_SUPPORTER": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "EARLY_SUPPORTER"
+			},
+			"EARLY_VERIFIED_DEVELOPER": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "EARLY_VERIFIED_DEVELOPER"
+			},
+			"GUILD_BOOSTER": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "GUILD_BOOSTER"
+			},
+			"HYPESQUAD": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "HYPESQUAD"
+			},
+			"HYPESQUAD_ONLINE_HOUSE_1": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "HYPESQUAD_ONLINE_HOUSE_1"
+			},
+			"HYPESQUAD_ONLINE_HOUSE_2": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "HYPESQUAD_ONLINE_HOUSE_2"
+			},
+			"HYPESQUAD_ONLINE_HOUSE_3": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "HYPESQUAD_ONLINE_HOUSE_3"
+			},
+			"PARTNER": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "PARTNER"
+			},
+			"PREMIUM": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "PREMIUM"
+			},
+			"STAFF": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "STAFF"
+			}
+		}
+	}
+}
